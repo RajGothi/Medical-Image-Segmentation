@@ -57,10 +57,6 @@ I aimed to develop a robust polyp segmentation model using deep learning techniq
 
 For questions, collaborations, or further information, feel free to contact me:
 
-- **Project Reference**: Project Pro
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vidhi-waghela-434663198/)
-- **Email**: [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com)
-
 ## 🚀 Getting Started
 
 ```python
